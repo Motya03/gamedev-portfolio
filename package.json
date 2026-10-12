@@ -1,6 +1,6 @@
 {
   "homepage": "https://motya03.github.io/gamedev-portfolio/",
-  "name": "portfolio-template",
+  "name": "gamedev-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
